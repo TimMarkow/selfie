@@ -1,0 +1,51 @@
+
+body {
+	background-color: #9d9d9d;
+}
+
+#target {
+	width: 612px;
+	height: 612px;
+	margin: 0 auto;
+	padding-left: 10px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 25px;
+	font-family: helvetica, sans-serif;
+	padding: 10px 0;
+}
+
+.next {
+	float: right;
+}
+
+.rslides_nav {
+	padding-bottom: 20px;
+}
+
+.highlight {
+	border-color: yellow;
+}
+
+/*
+.pic {
+	margin-bottom: 15px;
+}
+
+ul {
+	width: 612px;
+	height: 612px;
+}
+
+img {
+	border: 2px solid black;
+}
+
+li {
+	float: left;
+	list-style: none;
+}
+
+*/
